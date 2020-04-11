@@ -7,16 +7,24 @@ using namespace std;
 
 int main()
 {
-	int x = 4;
-	int y = 5;
-	float a = 1.22;
-	float b = 1.33;
-	float sum = 0;
+	int female = 4;
+	int male = 5;
+	int humans = 0;
+	int cat = 1;
+	int dog = 1;
+	int animals = 0;
+	int livingBeings = 0;
 
-	sum = x + y + a + b;
+	animals = cat + cat + cat + dog + dog + dog;
 
-	cout << sum << endl;
+	humans = female + male;
 
+	livingBeings = humans + animals;
+
+	cout << "In this room are " << humans << " humans and " << animals << " animals." <<endl;
+
+	cout << "Living beings all together " << livingBeings << "." << endl;
+	
 	return 0;
 }
 

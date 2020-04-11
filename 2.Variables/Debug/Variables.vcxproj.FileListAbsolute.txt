@@ -1,2 +1,4 @@
 C:\Users\Metallica\source\repos\udemy-cplusplus--course\Variables\Debug\Variables.exe
 C:\Users\Metallica\source\repos\udemy-cplusplus--course\Variables\Debug\Variables.pdb
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\2.Variables\Debug\Variables.exe
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\2.Variables\Debug\Variables.pdb

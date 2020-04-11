@@ -1,0 +1,2 @@
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\4.Userinput\Debug\Userinput.exe
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\4.Userinput\Debug\Userinput.pdb

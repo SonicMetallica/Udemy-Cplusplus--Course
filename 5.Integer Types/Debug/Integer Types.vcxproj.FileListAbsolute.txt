@@ -1,0 +1,2 @@
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\5.Integer Types\Debug\Integer Types.exe
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\5.Integer Types\Debug\Integer Types.pdb
