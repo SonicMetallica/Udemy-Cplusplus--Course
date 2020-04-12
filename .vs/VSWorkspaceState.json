@@ -7,8 +7,9 @@
     "\\4.Userinput",
     "\\5.Integer Types",
     "\\5.Integer Types\\x64",
-    "\\5.Integer Types\\x64\\Release"
+    "\\5.Integer Types\\x64\\Release",
+    "\\6.Floating Point Types"
   ],
-  "SelectedNode": "\\5.Integer Types\\x64\\Release\\Integer Types.exe",
+  "SelectedNode": "\\6.Floating Point Types\\6.Floating Point Types.vcxproj",
   "PreviewInSolutionExplorer": false
 }
