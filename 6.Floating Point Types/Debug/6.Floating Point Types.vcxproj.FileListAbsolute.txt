@@ -1,0 +1,2 @@
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\6.Floating Point Types\Debug\6.Floating Point Types.exe
+C:\Users\Metallica\Source\Repos\udemy-cplusplus--course\6.Floating Point Types\Debug\6.Floating Point Types.pdb

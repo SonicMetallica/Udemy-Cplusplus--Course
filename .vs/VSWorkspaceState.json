@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\1.C++  Getting Started",
-    "\\2.Variables",
-    "\\3.Strings",
-    "\\4.Userinput",
-    "\\5.Integer Types",
-    "\\5.Integer Types\\x64",
-    "\\5.Integer Types\\x64\\Release",
-    "\\6.Floating Point Types"
+    "\\10. Comparing floats",
+    "\\11. C++ Conditions",
+    "\\12. While Loops",
+    "\\6.Floating Point Types",
+    "\\7.Other Types Bool and Char",
+    "\\8. If statement",
+    "\\8.1 If statement",
+    "\\9. If else (other solution switch cases)"
   ],
-  "SelectedNode": "\\6.Floating Point Types\\6.Floating Point Types.vcxproj",
+  "SelectedNode": "\\12. While Loops\\12. While Loops.cpp",
   "PreviewInSolutionExplorer": false
 }
